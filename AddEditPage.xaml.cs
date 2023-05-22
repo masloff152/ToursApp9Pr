@@ -57,6 +57,7 @@ namespace ToursApp
             
 
             // ИЗМЕНЕНИЯ ГИТХАБ 
+            // ВТОРАЯ ВЕТКА
 
             if (errors.Length > 0)
             {
