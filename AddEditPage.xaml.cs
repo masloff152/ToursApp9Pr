@@ -55,6 +55,9 @@ namespace ToursApp
             if (_currentHotel.Country == null)
                 errors.AppendLine("Выберите страну");
             
+
+            // ИЗМЕНЕНИЯ ГИТХАБ 
+
             if (errors.Length > 0)
             {
                 MessageBox.Show(errors.ToString());

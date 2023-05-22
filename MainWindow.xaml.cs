@@ -46,6 +46,7 @@ namespace ToursApp
             // var fileData = File.ReadAllLines(@"E:\Отели\Отели.txt");
             var images = Directory.GetFiles(@"C:\Фото отелей");
 
+            // check github pullrequest
 
             //var currentType = ToursBaseEntities.GetContext().Hotels.ToList().FirstOrDefault(p => p.Name == tourType);
 
